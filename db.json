@@ -1,7 +1,11 @@
 {
-  "Teams": [
-    {"name" : "Fenerbahçe", "id" : 0},
-    {"name" : "TerziliKöy", "id" : 66},
-    {"name" : "Kardeşler FC", "id" : 1}
-  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
