@@ -1,11 +1,18 @@
 {
-  "posts": [
+  "teams": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "name": "fenerbahçe"
+    },
+    {
+      "id": 66,
+      "name": "terzili"
+    },
+    {
+      "id": 11,
+      "nale": "kardesler"
+    },
+    
+  ]
+ 
 }
