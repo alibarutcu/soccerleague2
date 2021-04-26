@@ -1,16 +1,7 @@
 {
-  "teams": [
-    {
-      "id": 1,
-      "name": "fenerbahçe"
-    },
-    {
-      "id": 66,
-      "name": "terzili"
-    },
-    {
-      "id": 11,
-      "name": "kardesler"
-    } 
+  "teams":[
+    {"id": 1, "name": "fenerbahçe"},
+    {"id": 66,"name": "terzili"},
+    {"id": 11,"name": "kardesler"}
   ]
 }
