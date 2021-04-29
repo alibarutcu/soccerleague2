@@ -21,14 +21,7 @@
    "teams3":[
        {"id": 1, "name": "fb"},
        {"id": 2,"name": "gs"},
-       {"id": 3,"name": "bjk"},
-       {"id": 4, "name": "ts"},
-       {"id": 5,"name": "deniz"},
-      {"id": 5,"name": "simge"},
-     {"id": 6, "name": "fb1"},
-       {"id": 7,"name": "gs1"},
-       {"id": 8,"name": "bjk1"}
+       {"id": 3,"name": "bjk"}
     
-   
   ]
 }
